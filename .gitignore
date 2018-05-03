@@ -1,0 +1,15 @@
+
+Lib
+Lib/site-packages/pip/_vendor/certifi/cacert.pem
+Lib/site-packages/pip/_vendor/certifi/core.py
+__pycache__/memcrashed.cpython-36.pyc
+__pycache__/portscanner.cpython-36.pyc
+fullcontact.py
+Lib/site-packages/__pycache__/easy_install.cpython-36.pyc
+Lib/site-packages/certifi-2018.4.16.dist-info/DESCRIPTION.rst
+Lib/site-packages/certifi-2018.4.16.dist-info/INSTALLER
+Scripts
+Include
+__pycache__
+share
+
